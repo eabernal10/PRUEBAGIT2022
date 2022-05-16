@@ -1,1 +1,6 @@
 Hola me llamo Ethan
+
+codificando en c++
+primera funcion 
+cuerpo de la funcion 
+fin de la funcion 
