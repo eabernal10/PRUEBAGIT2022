@@ -2,3 +2,7 @@ Tesis de grado de tics
 Universidad catolica - Sede Esmeraldas
 
 redaccion capitulo 1
+
+redaccion capitulo 2
+diseño del sistema
+anlisis del sistema

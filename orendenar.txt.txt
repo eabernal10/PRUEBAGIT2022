@@ -4,3 +4,5 @@ codificando en c++
 primera funcion 
 cuerpo de la funcion 
 fin de la funcion 
+
+codificando funcion para imrpimir los resultados
